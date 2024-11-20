@@ -1,6 +1,7 @@
 Models for the paper: "Diffusion-based Face Relighting with both Facial and Lighting Consistency".
 
 1. CFRelighting: ImgCond_ema_0.9999_050000.pt & ImgEncoder_ema_0.9999_050000.pt
+
 Due to the size limitations of the uploaded files, we have split the model into several smaller parts. To unzip the full model, please place all the .rar files of the same part in a single folder and then click on the first file to extract the entire model.
 
 1.1 The model "ImgCond_ema_0.9999_050000.pt" consists of 6 parts, with a total size of 594.8MB. To unzip the full model, please click on the "ImgCond_ema_0.9999_050000.part1.rar" file.
