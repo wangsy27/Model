@@ -5,7 +5,6 @@ Due to the size limitations of the uploaded files, we have split the model into 
 
 1.1 The model "ImgCond_ema_0.9999_050000.pt" consists of 6 parts, with a total size of 594.8MB. To unzip the full model, please click on the "ImgCond_ema_0.9999_050000.part1.rar" file.
 
-ImgCond_ema_0.9999_050000
     ├── ImgCond_ema_0.9999_050000.part1.rar                   
     ├── ImgCond_ema_0.9999_050000.part2.rar                               
     ├── ImgCond_ema_0.9999_050000.part3.rar                              
@@ -15,7 +14,6 @@ ImgCond_ema_0.9999_050000
 
 1.2 Similarly, the model "ImgEncoder_ema_0.9999_050000.pt" consists of 2 parts, with a total size of 168.2MB. To unzip this model, please click on the "ImgEncoder_ema_0.9999_050000.part1.rar" file.
 
-ImgEncoder_ema_0.9999_050000
     ├── ImgEncoder_ema_0.9999_050000.part1.rar                   
     ├── ImgEncoder_ema_0.9999_050000.part2.rar 
 
